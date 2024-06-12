@@ -1,1 +1,1 @@
-migoller/shinobidocker:latest
+jeessy/ddns-go
