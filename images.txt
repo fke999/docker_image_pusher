@@ -1,1 +1,1 @@
-fingerboy/istoreos-x86-64
+sulinggg/openwrt
