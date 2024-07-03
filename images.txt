@@ -1,1 +1,1 @@
-openwrt/rootfs
+openwrt/rootfs:x86-64
