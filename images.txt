@@ -1,1 +1,1 @@
-home assistant/home-assistant
+homeassistant/home-assistant
