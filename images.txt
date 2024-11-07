@@ -1,1 +1,1 @@
-olbat/cupsd
+immortalwrt/rootfs:x86-64-openwrt-21.02.7
