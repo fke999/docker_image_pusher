@@ -1,1 +1,1 @@
-immortalwrt/rootfs:x86-64-openwrt-21.02.7
+ddns-go/jeessy:v6.9.1-linux_x86_64
