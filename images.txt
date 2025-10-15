@@ -1,1 +1,1 @@
-gdy666/lucky
+ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
