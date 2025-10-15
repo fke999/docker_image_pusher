@@ -1,1 +1,1 @@
-ghcr.io/immich-app/immich-machine-learning:v2.0.1
+docker.io/valkey/valkey:8-bookworm
