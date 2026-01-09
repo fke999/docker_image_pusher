@@ -1,1 +1,1 @@
-hub.docker.com/r/kbyai/idcard-recognition
+hub.docker.com/kbyai/idcard-recognition
