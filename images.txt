@@ -1,1 +1,1 @@
-kbyai/idcard-recognition
+ghcr.io/blakeblackshear/frigate:stable
