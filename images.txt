@@ -1,1 +1,1 @@
-filebrowser/filebrowser
+ghcr.io/gtsteffaniak/filebrowser:latest
