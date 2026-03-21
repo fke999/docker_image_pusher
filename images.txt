@@ -1,1 +1,1 @@
-deciai/super-gradients:latest
+amilys/embyserver:latest
