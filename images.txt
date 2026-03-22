@@ -1,1 +1,3 @@
-amilys/embyserver:latest
+theengs/gateway:latest
+eclipse-mosquitto:latest
+nodered/node-red:latest
