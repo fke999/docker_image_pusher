@@ -1,1 +1,1 @@
-gotson/komga:latest
+gdy666/lucky:v2
