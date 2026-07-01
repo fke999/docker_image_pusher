@@ -1,1 +1,1 @@
-gdy666/lucky:v2
+ghcr.io/ekaanth/opencut-ai:full-gpu
