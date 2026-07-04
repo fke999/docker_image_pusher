@@ -1,1 +1,1 @@
- registry.rocket.chat/rocketchat/rocket.chat:latest
+mongo:8.0.3
