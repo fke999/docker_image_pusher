@@ -1,1 +1,1 @@
-ghcr.io/ekaanth/opencut-ai:full-gpu
+ registry.rocket.chat/rocketchat/rocket.chat:latest
