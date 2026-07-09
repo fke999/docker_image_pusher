@@ -1,1 +1,1 @@
-ftpfan/linux-usb-server:amd64
+ollama/ollama:latest
