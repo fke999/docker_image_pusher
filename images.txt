@@ -1,2 +1,1 @@
-mysql:latest
-redis:8.0
+python:3.11-slim
