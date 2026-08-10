@@ -1,1 +1,1 @@
-docker.io/portainer/portainer-ce:2.11.1
+ghcr.io/c4illin/convertx:latest
