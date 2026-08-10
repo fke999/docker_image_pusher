@@ -1,1 +1,1 @@
-ghcr.io/c4illin/convertx:latest
+portainer/portainer‑ce:2.11.1
