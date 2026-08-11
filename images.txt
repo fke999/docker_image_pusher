@@ -1,1 +1,1 @@
-stilliard/pure-ftpd
+stilliard/pure-ftpd:1.0.45
