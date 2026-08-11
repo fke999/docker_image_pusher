@@ -1,1 +1,1 @@
-ghcr.io/c4illin/convertx:latest
+stilliard/pure-ftpd
