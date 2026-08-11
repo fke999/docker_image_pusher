@@ -1,1 +1,1 @@
-stilliard/pure-ftpd:1.0.45
+stilliard/pure-ftpd:buster-1.0.47
