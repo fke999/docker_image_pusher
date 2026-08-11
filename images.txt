@@ -1,1 +1,1 @@
-stilliard/pure-ftpd:buster-1.0.47
+hslr/sun-panel:latest
