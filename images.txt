@@ -1,3 +1,1 @@
 docker.1ms.run/library/postgres:16
-docker.1ms.run/library/node:20-slim
-ghcr.1ms.run/astral-sh/uv:latest
