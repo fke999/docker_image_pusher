@@ -1,1 +1,1 @@
-docker.1ms.run/library/postgres:16
+library/postgres:16
