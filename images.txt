@@ -1,1 +1,1 @@
-ghcr.1ms.run/astral-sh/uv:debian
+astral-sh/uv:debian
