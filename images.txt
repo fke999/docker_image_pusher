@@ -1,1 +1,2 @@
-library/postgres:16
+library/node:20-slim
+astral-sh/uv:latest
