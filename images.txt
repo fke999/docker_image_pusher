@@ -1,1 +1,1 @@
-astral-sh/uv:latest
+ghcr.1ms.run/astral-sh/uv:latest
