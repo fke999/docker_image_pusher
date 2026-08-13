@@ -1,1 +1,1 @@
-astral-sh/uv:debian
+docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest-fat
