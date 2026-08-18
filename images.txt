@@ -1,2 +1,6 @@
-onlyoffice/docspace:latest
-onlyoffice/documentserver:latest
+postgres:16-alpine
+redis:7-alpine
+ghcr.io/artcc/freelingo-backend:latest
+ghcr.io/artcc/freelingo-frontend:latest
+ghcr.io/remsky/kokoro-fastapi-gpu:latest-cu128
+onerahmet/openai-whisper-asr-webservice:latest-gpu
