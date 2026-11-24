@@ -1,2 +1,1 @@
-apache/hop:latest
-apache/hop-web:latest
+stirlingtools/stirling-pdf:latest-fat
